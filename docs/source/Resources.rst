@@ -3,7 +3,7 @@ Resources
 
 Suppliers
 ---------
-Below are some good places to get parts from
+Below are some good places to get parts from:
 
 `MyFPVStore.com <https://www.myfpvstore.com/>`_
 
@@ -15,7 +15,7 @@ Below are some good places to get parts from
 
 Youtubers
 ---------
-Below are some good youtubers to follow
+Below are some good youtubers to follow:
 
 `Drone Mesh <https://www.youtube.com/@DroneMesh>`_
 

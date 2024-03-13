@@ -1,8 +1,10 @@
-Welcome to Jacobs Drone Guide
-=============================
+Prepare for Make-Off
+====================
 
-**Jacob's Drone Guide** is a drone guide for beginners. 
-It is a collection of tutorials and guides to help you get started with drones
+**WORK IN PROGRESS** This full guide will be up 3.18.24
+
+# is a drone guide for beginners. 
+# It is a collection of tutorials and guides to help you get started with drones
 
 Contents
 --------

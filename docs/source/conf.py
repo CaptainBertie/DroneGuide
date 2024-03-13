@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Jacob\'s Drone Guide'
+project = 'Make to the Skies'
 copyright = '2024, Wilson'
 author = 'Jacob Wilson'
 
