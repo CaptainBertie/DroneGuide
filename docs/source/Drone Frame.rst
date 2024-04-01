@@ -7,3 +7,4 @@ Your prop size is your first decision when building your drone. It determines th
 
 Frame Sizing
 ------------
+stupid stupid
