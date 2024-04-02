@@ -9,7 +9,7 @@ Contents
 .. toctree::
    Introduction
    Resources
-   Drone Frame
+   Drone Size
    Electronics
    Wiring and Assembly
    Betaflight Configuration
