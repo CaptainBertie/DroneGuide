@@ -5,9 +5,9 @@ Soldering
 ---------
 All of drone wiring is going to require some soldering skill, which you can develop through this project.
 
-If you ae inexperienced with soldering, I would recommend watching this `video from oneTesla <https://www.youtube.com/watch?v=Qps9woUGkvI>`. After watching that practicing on some practice boards would be strongly advised, you don't want to mess up your expensive flight controller.
+If you ae inexperienced with soldering, I would recommend watching this `video from oneTesla <https://www.youtube.com/watch?v=Qps9woUGkvI>`_. After watching that practicing on some practice boards would be strongly advised, you don't want to mess up your expensive flight controller.
 
-To get more specific drone soldering tips you can look to this `video from The Drone Racing League <https://www.youtube.com/watch?v=Ct-kvrCdGOY>` which is quite quick and helpful or consider this longer but still information packed `video from TRONCAT FPV <https://www.youtube.com/watch?v=2funvs3nU7U>`.
+To get more specific drone soldering tips you can look to this `video from The Drone Racing League <https://www.youtube.com/watch?v=Ct-kvrCdGOY>`_ which is quite quick and helpful or consider this longer but still information packed `video from TRONCAT FPV <https://www.youtube.com/watch?v=2funvs3nU7U>`_.
 
 Assembly order
 --------------
