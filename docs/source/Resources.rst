@@ -1,6 +1,8 @@
 Resources
 =========
 
+If you are ever stuck consulting these resources should be **extremely** helpful. Problem solving is the biggest constant in engineering. It is a transferable skill that will come in handy in all aspects of life, so please don't give up but rather persevere and solve the problem. I promise it will be infinitely more satisfying than quitting. 
+
 Suppliers
 ---------
 Below are some good places to get parts from:
