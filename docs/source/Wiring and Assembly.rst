@@ -99,23 +99,50 @@ Credit to Just Hack it for their great tutorial here that helped me a lot when I
 
 My advice would be to take your time setting up the wires so that they can sit still while you apply solder. 
 
-.. warning:: Remember to think about how the wires will sit inside of your drone chassis. If you wire them going straight out of the ESC board and they need to go 90 degrees upwards you will have a miserable time redoing this.
+.. important:: Remember to think about how the wires will sit inside of your drone chassis. If you wire them going straight out of the ESC board and they need to go 90 degrees upwards you will have a miserable time redoing this.
 
 Take your time figuring out the setup both on the drone and for soldering.
 
 6. Motors and ESC Wiring
 ------------------------
+You should first mount your ESC board to your frame. Make sure to use the rubber grommets on the stack to insulate the board from the frame.
 
+.. tip:: Grommets are the little round pieces that are designed to go in the holes for mounting you control stack as well as in between the boards. 
+
+This is the most consistent and straightforward part of the build. Any ESC board will have the same setup for motors. 
+
+Every motor will have 3 wires, and every ESC board will have 3 pads for each motor.
+
+.. note:: You should run the motor wires through the inside of the frame and then onto the soldering pads. This way your connections are not outside of the frame where they can be easily broken in a crash. This means running the wires around the bolts that hold your ESC board and FC mount to.
+
+.. warning:: Make sure none of your connections bridge here. They tend to happen here and due to the high voltage sent to the motors if you turn on with a bridged connection here it would cause major problems. 
 
 7. Flight Controller Mounting
 -----------------------------
+Now you can attack your flight controller. Ensure you space the FC from the ESC board with the rubber grommets. 
+
+You can then use the ribbon cable to connect the ESC board to the FC.
+
+It is at this point I would recommend plugging in your camera and VTX and powering on your drone with a `smoke stopper <https://www.getfpv.com/jhemcu-smoke-stopper-1-6s-fuse-holder-test-short-circuit-protection.html>`_.
+
+.. caution:: DO NOT POWER ON YOUR DRONE FOR THE FIRST TIME WITHOUT A SMOKE STOPPER. Please, I beg of you, you might fry your flight controller and everything else and it will **SUCK**
+
+.. tip:: A smoke stopper is a device that will prevent your drone from being fried if you have a short circuit. It will light up and stop the power from reaching your drone if there is a short circuit.
+
+Assuming you pass with the smoke stopper I would recommend connecting to the drone via the USB-C port and start performing your Betaflight setup.
 
 8. Assemble Remainder of Drone
 ------------------------------
+Once you have performed your setup and fixed any wiring issues you can then proceed with assembling the rest of your frame. 
+
+Secure your camera, VTX, and RX in their designated mounting points. Mount whatever antennas you have and then proceed to the next step which is highly important.
 
 9. Wire Management
 ------------------
+In this part of your build electrical tape and zip ties will be your best friends. You need to make sure that wires aren't floating around outside and inside of your drone.
 
+Also ensure that wires are not stressed at the connection points or for that matter anywhere else. This sort of application is a pretty advanced that isn't really taught outside of robotics. But hey drones are robots so here you go!
 
+.. note:: This video covers some more advanced ideas however they give the right idea about how your wires should run around the body of your drone - `How Do I Manage Wires on my Robot? <https://www.youtube.com/watch?v=8w9g18-A9L0>`_
 
 

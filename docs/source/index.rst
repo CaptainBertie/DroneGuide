@@ -13,3 +13,4 @@ Contents
    Electronics
    Wiring and Assembly
    Betaflight Configuration
+   Flying
