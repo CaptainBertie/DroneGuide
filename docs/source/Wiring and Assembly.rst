@@ -1,7 +1,7 @@
 Wiring and Assembly
 ===================
 
-.. image:: ../images/wiring.png
+.. image:: ..images/wiring.png
    :alt: wiring
    :align: center
 
@@ -33,7 +33,7 @@ Below I have included some tips and tricks for each step along the way.
 ------------------------------
 Every flight controller should come with a pin-out. This tells you where every wire needs to go. Below i've attached an example for a camera.
 
-.. image:: ../images/cameratofc.png
+.. image:: ..images/cameratofc.png
    :alt: camera to flight controller
    :align: center
 
@@ -47,11 +47,11 @@ This means you need to check the wiring diagram for your flight controller as we
 
 Below i've attached an example of a VTX to FC wiring diagram.
 
-.. image:: ../images/vtxtofc1.png
+.. image:: ..images/vtxtofc1.png
    :alt: vtx to flight controller
    :align: center
 
-.. image:: ../images/vtxtofc2.png
+.. image:: ..images/vtxtofc2.png
    :alt: vtx to flight controller
    :align
 
@@ -63,15 +63,15 @@ See how the the wiring can change between two different transmitters.
 
 The RX can have a variety of wiring configurations. Below is an example of some RX to FC wiring diagrams. 
 
-.. image:: ../images/rxtofc1.png
+.. image:: ..images/rxtofc1.png
    :alt: rx to flight controller
    :align: center
 
-.. image:: ../images/rxtofc2.png
+.. image:: ..images/rxtofc2.png
    :alt: rx to flight controller
    :align: center
 
-.. image:: ../images/rxtofc3.png
+.. image:: ..images/rxtofc3.png
    :alt: rx to flight controller
    :align: center
 
@@ -85,7 +85,7 @@ Now that your flight controller is wired up its time to construct the lower half
 
 .. important:: Make sure not to tighten bolts too much, it should be firm but if you are exerting yourself to tighten a bolt, you doing too much.
 
-.. image:: ../images/rock.png
+.. image:: ..images/rock.png
    :alt: rock
    :align: center
 
@@ -120,6 +120,10 @@ Every motor will have 3 wires, and every ESC board will have 3 pads for each mot
 7. Flight Controller Mounting
 -----------------------------
 Now you can attack your flight controller. Ensure you space the FC from the ESC board with the rubber grommets. 
+
+.. image:: ..images/fcmount.png
+   :alt: flight controller mount
+   :align: center
 
 You can then use the ribbon cable to connect the ESC board to the FC.
 
