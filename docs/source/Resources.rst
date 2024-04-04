@@ -28,3 +28,12 @@ Below are some good youtubers to follow:
 `Joshua Bardwell <https://www.youtube.com/@JoshuaBardwell>`_
 
 
+My Drone Build
+--------------
+This is a link to a goggle doc with a list of parts I used for a 5-inch drone build. Also included are links to handy drone support stuff and controls devices.
+
+`Parts List <https://docs.google.com/document/d/1AdxZQZBhFqwZwTXDHWWh5ClzpopwPJZ0ldCUKkhdXfE/edit>`_
+
+
+
+

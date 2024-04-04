@@ -1,6 +1,10 @@
 Wiring and Assembly
 ===================
 
+.. image:: ../images/wiring.jpg
+   :alt: wiring
+   :align: center
+
 Soldering
 ---------
 All of drone wiring is going to require some soldering skill, which you can develop through this project.
@@ -25,24 +29,83 @@ After honing your soldering skills it is important to be conscious of order in w
 
 Below I have included some tips and tricks for each step along the way.
 
-
 1. Camera to Flight Controller
 ------------------------------
+Every flight controller should come with a pin-out. This tells you where every wire needs to go. Below i've attached an example for a camera.
+
+.. image:: ../images/cameratofc.jpg
+   :alt: camera to flight controller
+   :align: center
 
 2. Video Transmitter to Flight Controller
 -----------------------------------------
+.. tip:: Your Video Transmitter is commonly referred to as a VTX. 
 
-3. Radio Transmitter to Flight Controller
+This step can get a little tricky because although your VTX cable will have 6 wires you might not need to solder all of them to your flight controller. 
+
+This means you need to check the wiring diagram for your flight controller as well as consult the cable channels from your VTX and its specifications.
+
+Below i've attached an example of a VTX to FC wiring diagram.
+
+.. image:: ../images/vtxtofc1.jpg
+   :alt: vtx to flight controller
+   :align: center
+
+.. image:: ../images/vtxtofc2.jpg
+   :alt: vtx to flight controller
+   :align
+
+See how the the wiring can change between two different transmitters.
+
+3. Radio Receiver to Flight Controller
 -----------------------------------------
+.. tip:: Your Radio Receiver is commonly referred to as an RX.
+
+The RX can have a variety of wiring configurations. Below is an example of some RX to FC wiring diagrams. 
+
+.. image:: ../images/rxtofc1.jpg
+   :alt: rx to flight controller
+   :align: center
+
+.. image:: ../images/rxtofc2.jpg
+   :alt: rx to flight controller
+   :align: center
+
+.. image:: ../images/rxtofc3.jpg
+   :alt: rx to flight controller
+   :align: center
+
+For the Radio Receiver what changes is the radio protocol you are using. This is built into your radio receiver so if you already have a radio controller I would advise purchasing a receiver that has a protocol supported by your controller.
+
+Check your receivers specifications for its protocol and then consult the wiring diagram for your flight controller. 
 
 4. Assemble Bottom half of frame
 --------------------------------
+Now that your flight controller is wired up its time to construct the lower half of your drone. This means start building your frame and take a break from soldering.
+
+.. important:: Make sure not to tighten bolts too much, it should be firm but if you are exerting yourself to tighten a bolt, you doing too much.
+
+.. image:: ../images/rock.jpg
+   :alt: rock
+   :align: center
 
 5. Battery Pigtail to ESC Board
 -------------------------------
+Now be warned this is the hardest part of the entire build from my experience. 
+
+This the wire that attaches your drone electronics to the battery. Its thick and the soldering pads are normally horrible. That being said once you've crossed this hump you will be in the endgame.
+
+Credit to Just Hack it for their great tutorial here that helped me a lot when I first did this - `How To Solder XT60 to ESC | Beginners Guide <https://www.youtube.com/watch?v=KWzGA4khJGg>`_
+
+My advice would be to take your time setting up the wires so that they can sit still while you apply solder. 
+
+.. warning:: Remember to think about how the wires will sit inside of your drone chassis. If you wire them going straight out of the ESC board and they need to go 90 degrees upwards you will have a miserable time redoing this.
+
+Take your time figuring out the setup both on the drone and for soldering.
 
 6. Motors and ESC Wiring
 ------------------------
+
 
 7. Flight Controller Mounting
 -----------------------------

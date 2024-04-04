@@ -21,7 +21,9 @@ Batteries
    :alt: battery
    :align: center
 
-Another important part of drone sizing is the battery. Standard drone batteries are Lithium Polymer Batteries or LiPos. They come in sizes typically ranging from 1s to 6s. This refers to the number of cells in the battery. A 6s battery is six times bigger than a 1s battery and packs much more power. 
+Another important part of drone sizing is the battery or LiPo. LiPos come in sizes typically ranging from 1s to 6s. This refers to the number of cells in the battery. A 6s battery is six times bigger than a 1s battery and packs much more power. 
+
+.. tip:: LiPos are Lithium Polymer Batteries
 
 If you are building a bigger drone, you will need a bigger battery. A bigger battery also means more power and speed, so for beginners flying a 6s drone can be quite a challenge. I know myself; I built a 6s drone for my first drone, and it was quite a handful to control. 
 

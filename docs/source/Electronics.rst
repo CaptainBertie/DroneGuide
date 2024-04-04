@@ -1,8 +1,8 @@
 Electronics
 ===========
 
-Flight Controller
------------------
+Flight Controller and ESCs
+--------------------------
 
 .. image:: images/fc.png
    :alt: Flight Controller
@@ -12,9 +12,13 @@ The drone flight controller is the brain of your drone. It processes all signals
 
 When selecting a flight controller, it is important to check that it will fit in your frame. They come in standard mounting sizes, typically 30mm by 30mm however, it is crucial to check that it matches with your frame. 
 
-Most modern FPV drones use a flight controller and electronic speed controller stack. This integrates the motor controllers into a single board that fits neatly below your flight controller. This offers many advantages. Firstly, it makes wiring a lot easier. Secondly, you have a major electronic system protected and contained within your frame as opposed to how ESCs are normally mounted, and lastly, it typically is a lot more economical to purchase a stack of FCs and an ESC board than an FC and then four separate ESCs. 
+Most modern FPV drones use a flight controller and electronic speed controller stack. This integrates the motor controllers into a single board that fits neatly below your flight controller. This offers many advantages. Firstly, it makes wiring a lot easier. Secondly, you have a major electronic system protected and contained within your frame as opposed to how ESCs are normally mounted, and lastly, it typically is a lot more economical to purchase a stack of FCs and an ESC board than an FC and then four separate ESCs.
 
-Your flight controller is the most key part of your drone and determines what other hardware you can use. **Investing in a solid flight controller is a good first step when building a drone.** One final point to make is that Betaflight is the most well-documented and widely used configurator for drones, so buying a flight controller that is compatible with Betaflight is a must in my opinion. Most flight controllers are, so don't stress it.
+.. tip:: Flight controllers are referred to as an FCs and Electronic Speed Controllers are referred to as ESCs.
+
+Your flight controller is the most key part of your drone and determines what other hardware you can use. **Investing in a solid flight controller is a good first step when building a drone.** O
+
+.. important:: One final point to make is that Betaflight is the most well-documented and widely used configurator for drones, so buying a flight controller that is compatible with Betaflight is a must in my opinion. Most flight controllers are, so don't stress it.
 
 Motors
 ------
@@ -43,6 +47,8 @@ Goggles
 .. image:: images/goggles.png
    :alt: Goggles
    :align: center
+
+
 
 Camera
 ^^^^^^
@@ -75,6 +81,11 @@ Radio Reciever
 .. image:: images/reciever.png
    :alt: Radio Reciever
    :align: center
+
+This is built into your radio receiver so if you already have a radio controller I would advise purchasing a receiver that has a protocol supported by your controller.
+
+The radio receiver protocol is called the RX protocol while the transmitter protocol is called the TX protocol.
+
 
 Antennas
 ~~~~~~~~
