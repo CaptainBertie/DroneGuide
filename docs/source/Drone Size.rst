@@ -37,3 +37,5 @@ Frame
 The Drone Frame is mechanical base for everything that happens with a drone. It is important to be conscious of the sizing of your frame when buying other components. 
 
 I would recommend to initially get an idea of the size drone you wish to build, and from there specify your electronics. Then you should be able to find a frame that fits. The frame has three key measurements; prop size, camera size, flight controller size.
+
+.. tip:: 3D Printing is a great way to make custom additions to your drone frame. 

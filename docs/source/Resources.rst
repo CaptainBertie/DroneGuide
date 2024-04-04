@@ -15,9 +15,9 @@ Below are some good places to get parts from:
 
 
 
-Youtubers
----------
-Below are some good youtubers to follow:
+Youtubers and Blogs
+-------------------
+Below are some good youtubers and blogs to follow:
 
 `Drone Mesh <https://www.youtube.com/@DroneMesh>`_
 
@@ -26,6 +26,8 @@ Below are some good youtubers to follow:
 `TRONCAT FPV <https://www.youtube.com/@TRONCATFPV>`_
 
 `Joshua Bardwell <https://www.youtube.com/@JoshuaBardwell>`_
+
+`OscarLiang.com <OscarLiang.com>`_
 
 
 My Drone Build
