@@ -16,7 +16,7 @@ Most modern FPV drones use a flight controller and electronic speed controller s
 
 .. tip:: Flight controllers are referred to as an FCs and Electronic Speed Controllers are referred to as ESCs.
 
-Your flight controller is the most key part of your drone and determines what other hardware you can use. **Investing in a solid flight controller is a good first step when building a drone.** O
+Your flight controller is the most key part of your drone and determines what other hardware you can use. **Investing in a solid flight controller is a good first step when building a drone.**
 
 .. important:: One final point to make is that Betaflight is the most well-documented and widely used configurator for drones, so buying a flight controller that is compatible with Betaflight is a must in my opinion. Most flight controllers are, so don't stress it.
 
