@@ -5,6 +5,8 @@ Wiring and Assembly
    :alt: wiring
    :align: center
 
+..
+
 Soldering
 ---------
 All of drone wiring is going to require some soldering skill, which you can develop through this project.
@@ -36,6 +38,7 @@ Every flight controller should come with a pin-out. This tells you where every w
 .. image:: images/cameratofc.png
    :alt: camera to flight controller
    :align: center
+..
 
 2. Video Transmitter to Flight Controller
 -----------------------------------------
@@ -53,7 +56,7 @@ Below i've attached an example of a VTX to FC wiring diagram.
 
 .. image:: images/vtxtofc2.png
    :alt: vtx to flight controller
-   :align
+   :align: center
 
 See how the the wiring can change between two different transmitters.
 
@@ -88,6 +91,8 @@ Now that your flight controller is wired up its time to construct the lower half
 .. image:: images/rock.png
    :alt: rock
    :align: center
+
+..
 
 5. Battery Pigtail to ESC Board
 -------------------------------
